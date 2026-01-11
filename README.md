@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me: hi ,i am Aryan Dixit,<br><br><br>👋 About Me<br>I’m a Full Stack Development learner with a strong base in Java and a growing focus on Data Structures & Algorithms (DSA) using Java.<br>I enjoy building projects, solving coding problems, and learning by doing.<br>I’ve worked with Java, Python, and C, and I like understanding how backend logic works.<br>I’m interested in collaborating on open-source and beginner-friendly projects.<br>Currently, I’m learning Full Stack Development, DSA, and backend concepts.<br>I enjoy sharing what I learn and improving step by step 🚀
+💫 About Me: hi, i am Aryan Dixit,<br><br><br>👋 About Me<br>I’m a Full Stack Development learner with a strong base in Java and a growing focus on Data Structures & Algorithms (DSA) using Java.<br>I enjoy building projects, solving coding problems, and learning by doing.<br>I’ve worked with Java, Python, and C, and I like understanding how backend logic works.<br>I’m interested in collaborating on open-source and beginner-friendly projects.<br>Currently, I’m learning Full Stack Development, DSA, and backend concepts.<br>I enjoy sharing what I learn and improving step by step 🚀
 
 
 ## 🌐 Socials:
