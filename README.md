@@ -2,7 +2,7 @@
 💫About Me:hi,i am Aryan Dixit,<br><br><br>👋 About Me<br>I’m a Full Stack Development learner with a strong base in Java and a growing focus on Data Structures & Algorithms (DSA) using Java.<br>I enjoy building projects, solving coding problems, and learning by doing.<br>I’ve worked with Java, Python, and C, and I like understanding how backend logic works.<br>I’m interested in collaborating on open-source and beginner-friendly projects.<br>Currently, I’m learning Full Stack Development, DSA, and backend concepts.<br>I enjoy sharing what I learn and improving step by step ,currently i am mainly focused on dsa in java programming.<br> thanks for visiting my profile.
 you can suggest me for improvement as i am new to github 
 
-## 🌐Socials:
+##🌐Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-dixit-586854367/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Aryan-Dixit-the-encoder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dixitaryan361@gmail.com) 
 
 # 💻 Tech Stack:
